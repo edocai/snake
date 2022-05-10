@@ -3,7 +3,7 @@
 ### Built with
 
 ⚡️ HTML&CSS\
-⚡️ React.js\
+⚡️ React.js + Hooks\
 ⚡️ Typescript.js
 
 
